@@ -2,43 +2,30 @@ function add(a, b) {
   return a + b   
 }
 
-function add() {
-  
+function subtract(a, b) {
+  return a - b  
 }
 
-function add() {
-  
+function multiply(a, b) {
+  return a * b  
 }
 
-function add() {
-  
+function divide(a, b) {
+  return a / b  
 }
 
-function add() {
-  
+function inc(n) {
+  return n++  
 }
 
-function add() {
-  
+function dec(n) {
+  return n--  
 }
 
-function add() {
-  
+function makeInt(n) {
+  return parseInt(n, 10)  
 }
 
-function add() {
-  
+function preserveDecimal(n) {
+  return parseFloat(n)  
 }
-
-function add() {
-  
-}
-
-function add() {
-  
-}
-
-function add() {
-  
-}
-
